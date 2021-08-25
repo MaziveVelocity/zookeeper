@@ -135,6 +135,18 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Sadie",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
